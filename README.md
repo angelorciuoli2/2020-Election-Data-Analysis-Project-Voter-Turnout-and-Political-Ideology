@@ -103,6 +103,6 @@ Step 10: Recommendations for Increasing Voter Turnout Among Younger Voters
 • Recommended strategies such as increasing accessibility, running awareness campaigns, simplifying registration, and engaging with technology to increase voter turnout among younger voters.
 
 
-Main Analysis
+### Main Analysis
 
 The main analysis is detailed in the accompanying Jupyter Notebook (Voter_Turnout_Analysis.ipynb). This notebook contains all the data processing, calculations, and visualizations used to derive the results and insights summarized above.
