@@ -26,8 +26,9 @@ The primary objectives of this project are to:
 Step 1: Identifying Voter Registration and Participation
 
 
-Combined variables from the CPS to create a new variable representing registered voters accurately.
-Verified consistency in responses to exclude logically inconsistent data.
+• Combined variables from the CPS to create a new variable representing registered voters accurately.
+
+• Verified consistency in responses to exclude logically inconsistent data.
 
 
 Step 2: Calculating Voter Participation Percentages
