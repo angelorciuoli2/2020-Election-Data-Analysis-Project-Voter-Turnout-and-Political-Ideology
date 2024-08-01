@@ -1,6 +1,6 @@
 # 2020 Election Data Analysis Project: Voter Turnout and Political Ideology
 
-# Voter Turnout
+# Voter Turnout Analysis
 
 
 ### Project Description
@@ -110,6 +110,84 @@ Step 10: Recommendations for Increasing Voter Turnout Among Younger Voters
 The main analysis is detailed in the accompanying Jupyter Notebook (Voter_Turnout_Analysis.ipynb). This notebook contains all the data processing, calculations, and visualizations used to derive the results and insights summarized above.
 
 
-# Political Ideology
+# Political Ideology and Politician Assessment Analysis
+
+
+### Project Description
+
+
+This project explores the relationship between individuals' self-assessed political ideology and their assessments of politicians' ideologies using data from the 2020 Cooperative Election Study (CES). The goal is to understand how personal ideology influences perceptions of political figures and entities.
+
+### Objective
+
+
+The primary objectives of this project are to:
+
+1. Visualize the distribution of self-assessed political ideology.
+2. Analyze respondents’ ideological ratings of Joe Biden and Donald Trump.
+3. Explore the relationship between personal ideology and the perceived ideology of these politicians.
+4. Compare the evaluations of Biden and Trump and understand the differences in perceptions.
+5. Examine the ideological ratings of other political entities.
+6. Provide insights into how self-assessed ideology influences political perceptions.
+
+
+
+### Summary of Results
+
+
+Step 1: Visualizing Self-Assessed Ideology
+
+
+• Loaded the CES data and visualized the distribution of self-assessed political ideology.
+
+
+• Found that the most common response was identifying as middle of the political spectrum, while extreme ideologies were less common.
+
+
+Step 2: Analyzing Ideological Ratings of Biden and Trump
+
+
+• Created plots showing the distribution of respondents' ideological ratings of Joe Biden and Donald Trump.
+
+
+• Visualized how respondents perceived the ideologies of these politicians.
+
+
+Step 3: Predicting Biden’s Ideology Rating
+
+
+• Performed a linear regression analysis with Biden's ideology rating as the dependent variable and self-assessed ideology as the independent variable.
+
+• Found that individuals’ ratings of Biden's ideology became more liberal as their own ideology became more conservative.
+
+
+Step 4: Predicting Trump’s Ideology Rating
+
+
+• Conducted a linear regression analysis with Trump's ideology rating as the dependent variable and self-assessed ideology as the independent variable.
+
+• Found that individuals’ ratings of Trump’s ideology became more conservative as their own ideology became more liberal.
+
+
+Step 5: Comparing Evaluations of Biden and Trump
+
+
+• Compared the intercepts and coefficients of the linear regressions for Biden and Trump.
+
+• Observed that respondents tend to view opposing party figures as more extreme, with significant differences in how Biden and Trump are perceived.
+
+
+Step 6: Analyzing Ideological Ratings of Other Entities
+
+• Chose a variable from the CES data (e.g., GOP ideology rating) and visualized the relationship between self-assessed ideology and the rating of this entity.
+
+• Performed a linear regression and interpreted the results, finding similar trends where personal ideology influenced perceptions of political entities.
+
+
+### Main Analysis
+
+The main analysis is detailed in the accompanying Jupyter Notebook (Political_Ideology_Analysis.ipynb). This notebook contains all the data processing, visualizations, and statistical analyses used to derive the results and insights summarized above.
+
+
 
 
