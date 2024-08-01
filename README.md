@@ -1,4 +1,6 @@
-# Voter Turnout Analysis Project
+# 2020 Election Data Analysis Project: Voter Turnout and Political Ideology
+
+# Voter Turnout
 
 
 ### Project Description
