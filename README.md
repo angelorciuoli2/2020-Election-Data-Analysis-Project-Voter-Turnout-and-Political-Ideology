@@ -108,3 +108,8 @@ Step 10: Recommendations for Increasing Voter Turnout Among Younger Voters
 ### Main Analysis
 
 The main analysis is detailed in the accompanying Jupyter Notebook (Voter_Turnout_Analysis.ipynb). This notebook contains all the data processing, calculations, and visualizations used to derive the results and insights summarized above.
+
+
+# Political Ideology
+
+
