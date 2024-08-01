@@ -11,12 +11,17 @@ This project involves analyzing voter registration and participation patterns us
 
 The primary objectives of this project are to:
 
-Identify the key variables that determine if an individual voted or was registered to vote.
-Calculate the percentage of adults and adult citizens who voted in the 2020 election.
-Analyze how voter turnout varies by age.
-Examine discrepancies between self-reported voting behavior and validated voting data.
-Calculate different measures of voter turnout.
-Provide recommendations to an organization aiming to increase voter turnout among younger voters based on the analysis.
+1. Identify the key variables that determine if an individual voted or was registered to vote.
+2. Calculate the percentage of adults and adult citizens who voted in the 2020 election.
+3. Analyze how voter turnout varies by age.
+4. Examine discrepancies between self-reported voting behavior and validated voting data.
+5. Calculate different measures of voter turnout.
+6. Provide recommendations to an organization aiming to increase voter turnout among younger voters based on the analysis.
+
+
+
+
+
 Summary of Results
 Task 1: Identifying Voter Registration and Participation
 Combined variables from the CPS to create a new variable representing registered voters accurately.
