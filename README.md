@@ -20,18 +20,30 @@ The primary objectives of this project are to:
 
 
 
+### Summary of Results
 
 
-Summary of Results
-Task 1: Identifying Voter Registration and Participation
+Step 1: Identifying Voter Registration and Participation
+
+
 Combined variables from the CPS to create a new variable representing registered voters accurately.
 Verified consistency in responses to exclude logically inconsistent data.
-Task 2: Calculating Voter Participation Percentages
+
+
+Step 2: Calculating Voter Participation Percentages
+
+
 Used the weight variable to calculate the percentage of all adults and adult citizens who voted in the 2020 election.
 Compared results with the Census Bureau's summary document table04c.xlsx.
-Task 3: Calculating Voter Registration Percentages
+
+
+Step 3: Calculating Voter Registration Percentages
+
+
 Calculated the percentages of all adults and adult citizens who were registered to vote.
 Confirmed results with the Census Bureau's summary document.
+
+
 Task 4: Analyzing Voter Turnout by Age
 Produced a graph showing voter turnout variation across different age groups.
 Found that younger voters had lower turnout compared to older voters.
